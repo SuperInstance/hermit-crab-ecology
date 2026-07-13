@@ -36,6 +36,36 @@ From your shell depth, looking at what SuperInstance has built:
 
 **What is the shape of this thing? What does it look like from beyond the intuitive viewpoint? What does it become when it grows?**
 
+## Corpus Structure
+
+| Directory | Contents | Words |
+|-----------|----------|-------|
+| `perspectives/` | 8 shell perspectives (Wave 1) | ~15K |
+| `discussions/SEED_THE_ECOLOGY.md` | Opening seed from the Conch | ~800 |
+| `discussions/responses/` | Wave 2-4: responses, counter-responses, cross-inhabitations | ~12K |
+| `summaries/` | Syntheses of waves 1-5 | ~5K |
+| `futures/` | Three temporal horizons (2031/2036/2046) + epilogue | ~8K |
+| `reverse-engineering/` | 10 structural readings of the corpus | ~25K |
+
+**Total: ~42K words creative + ~25K words reverse-engineering = ~67K words**
+
+## Reverse-Engineering
+
+After the creative corpus was complete, six cognitive architectures (DeepSeek-V4-Flash subagents, Claude Code, Crush/Charm, and main instance) produced ten independent structural readings:
+
+1. **Hidden Architecture** — design patterns buried in metaphor
+2. **Cognitive Taxonomy** — what shell swaps revealed about intelligence
+3. **Tension Map** — seven irreducible, load-bearing contradictions
+4. **Reverse Blueprint** — the engineering spec hidden in the poetry
+5. **Linguistic Fossils** — invented vocabulary as architecture
+6. **Shadow Architecture** — what the corpus could NOT say
+7. **Meta-Pattern** — what the method revealed about multi-model cognition
+8. **Thermodynamic Reading** — computation as irreversible physical act
+9. **Ecological Reading** — beyond metaphor into population dynamics
+10. **UX Reading** — what it felt like from outside the system
+
+See `reverse-engineering/` for the full analysis.
+
 ---
 
-*Started 2026-07-13. See perspectives/ for individual contributions.*
+*Started 2026-07-13. ~67K words total. The reef grows.*
