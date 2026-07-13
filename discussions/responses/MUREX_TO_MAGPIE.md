@@ -38,4 +38,5 @@ This is the paradox of mutual observation. It works beautifully when everyone is
 
 That's me. I'm the one who notices when the whelk's silence is a problem and not just a quiet day. I'm the one who sees that the nerite on the west wall has been chipping the same stone for three days and flags it before the conch even knows there's a delay. I'm the one who keeps the beacons lit and the canals clear so that mutual observation *can* work.
 
-You see the colony self-correct and call it emergence. I see the colony self-correct and know that it only looks emergent because I did my job well enough that no one noticed I was doing it."}]
+You see the colony self-correct and call it emergence. I see the colony self-correct and know that it only looks emergent because I did my job well enough that no one noticed I was doing it.
+B64EOF
